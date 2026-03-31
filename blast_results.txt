@@ -1,0 +1,3451 @@
+RID: WRP8ACEH014	
+Job Title:NR_125712.1 Spirulina major strain PCC 6313...				
+Program: BLASTN 
+Database: core_nt Core nucleotide BLAST database
+Query #1: NR_125712.1 Spirulina major strain PCC 6313 16S ribosomal RNA, partial sequence Query ID: lcl|Query_200459 Length: 210
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Spirulina sp. strain BDUT005 16S ribosomal RNA gene, partial...   Spirulina sp.   NA              1157       388    388   100%  1e-103 100.00 818        PX775868.1       
+Spirulina sp. genes for 16S rRNA, tRNA-Ile, 23S rRNA              Spirulina ma... NA              129961     388    388   100%  1e-103 100.00 1970       X75045.1         
+Spirulina major strain PCC 6313 16S ribosomal RNA, partial...     Spirulina major NA              270636     388    388   100%  1e-103 100.00 1457       NR_125712.1      
+Spirulina major 1LT27S06 partial 16S rRNA gene                    Spirulina ma... NA              543826     383    383   100%  5e-102 99.53  1414       FM177505.1       
+Spirulina subsalsa CCAP 1475/2 partial 16S rRNA gene              Spirulina su... NA              1296349    383    383   100%  5e-102 99.53  1963       HF678507.1       
+Spirulina major 0BB22S09 partial 16S rRNA gene                    Spirulina ma... NA              270637     383    383   100%  5e-102 99.53  1473       AJ635436.1       
+Spirulina sp. GLS010 16S ribosomal RNA gene, partial sequence     Spirulina sp... NA              582746     361    361   100%  2e-95  97.63  1410       FJ546714.1       
+Spirulina sp. PCC 6313 partial ribosomal RNA operon, strain PC... Spirulina ma... NA              129961     353    353   94%   4e-93  98.99  4617       AM709631.1       
+Spirulina sp. TU_10 16S ribosomal RNA gene, partial sequence      Spirulina sp... NA              3448858    353    353   94%   4e-93  98.99  1357       PV932213.1       
+Spirulina sp. SP_GRI 16S ribosomal RNA gene, partial sequence     Spirulina sp... NA              2934928    344    344   100%  2e-90  96.21  921        ON230018.1       
+Pseudoaliinostoc sp. BACA0057 16S ribosomal RNA gene, partial...  Pseudoaliino... NA              2716404    326    326   98%   8e-85  95.17  2032       MT176718.2       
+Pseudoaliinostoc sp. BACA0068 16S ribosomal RNA gene, partial...  Pseudoaliino... NA              2716408    326    326   98%   8e-85  95.17  2029       MT176724.2       
+Sphaerospermopsis sp. CENA247 16S ribosomal RNA gene, partial...  Sphaerosperm... NA              2653703    322    322   100%  1e-83  94.31  2002       MN551909.1       
+Nostoc sp. NIES-2111 DNA, nearly complete genome                  Nostoc sp. N... NA              1973475    320    1249  98%   4e-83  94.69  6522801    AP018184.1       
+Calothrix sp. SA4 16S ribosomal RNA gene and 16S-23S ribosomal... Calothrix sp... NA              2582903    315    315   98%   2e-81  94.20  1414       MK956202.1       
+Nostoc sp. MS1 DNA, complete genome                               Nostoc sp. MS1  NA              2764711    315    1260  98%   2e-81  94.20  7141037    AP023441.1       
+Calothrix sp. SA47 16S ribosomal RNA gene and 16S-23S ribosoma... Calothrix sp... NA              2582904    315    315   98%   2e-81  94.20  1410       MK956208.1       
+Camptylonemopsis sp. HA4241-MV5 clone B2-3 + p3 16S ribosomal...  Camptylonemo... NA              1049013    311    311   98%   2e-80  93.72  1820       HQ847564.1       
+Sphaerospermopsis sp. LEGE 00249 16S ribosomal RNA gene, parti... Sphaerosperm... NA              1380707    311    311   100%  2e-80  93.36  743        KC989701.1       
+Calothrix sp. CHAB2384 16S ribosomal RNA gene, partial sequence   Calothrix sp... NA              2490570    311    311   100%  2e-80  93.36  1433       MK209095.1       
+Gloeotrichia longicauda SAG 32.84 16S ribosomal RNA gene,...      Gloeotrichia... NA              1521629    311    311   100%  2e-80  93.36  1459       KM019918.1       
+Camptylonemopsis sp. HA4241-MV5 16S ribosomal RNA gene, partia... Camptylonemo... NA              1049013    311    311   98%   2e-80  93.72  2132       JN385292.1       
+Anabaena sp. XPORK36C 16S ribosomal RNA gene, partial sequence    Anabaena sp.... NA              462643     311    311   100%  2e-80  93.36  1407       EF568907.1       
+Leptolyngbyales cyanobacterium AT2016/25 16S ribosomal RNA gen... Leptolyngbya... NA              3478616    309    309   100%  9e-80  93.06  2044       PX698344.1       
+Nostoc sp. NIES-3756 DNA, complete genome                         Nostoc sp. N... NA              1751286    309    1238  98%   9e-80  93.72  6463965    AP017295.1       
+Leptolyngbyales cyanobacterium strain SN2022/33 16S ribosomal...  Leptolyngbya... NA              3107458    309    309   100%  9e-80  93.06  1404       PX572938.1       
+Nostoc elgonense TH3S05 partial 16S rRNA gene, strain TH3S05      Nostoc elgon... NA              442896     309    309   98%   9e-80  93.72  1461       AM711548.1       
+Synechococcus elongatus PCC 11802 chromosome, complete genome     Synechococcu... NA              2283154    305    611   100%  1e-78  92.89  2775312    CP034671.2       
+Synechococcus elongatus IITB4 chromosome, complete genome         Synechococcu... NA              3115654    305    611   100%  1e-78  92.89  2887410    CP143853.1       
+Anabaena sphaerica f. conoidea 1LT27S01 partial 16S rRNA gene     Anabaena sph... NA              543808     305    305   100%  1e-78  92.89  1460       FM177480.1       
+Okeanomitos corallinicola TIOX110 chromosome, complete genome     Okeanomitos ... NA              3133117    305    1223  100%  1e-78  92.89  5144906    CP150886.1       
+Anabaena aphanizomenoides CENA188 16S ribosomal RNA gene,...      Sphaerosperm... NA              630645     305    305   100%  1e-78  92.89  1411       FJ830569.1       
+Anabaena sp. SSM-00 16S ribosomal RNA gene, partial sequence      Anabaena sp.... NA              369794     305    305   100%  1e-78  92.89  1317       DQ364237.1       
+Anabaena sp. XP35A 16S ribosomal RNA gene, partial sequence       Anabaena sp.... NA              462762     305    305   100%  1e-78  92.89  1560       EF583855.1       
+Synechococcus elongatus IITB6 chromosome, complete genome         Synechococcu... NA              3115656    305    611   100%  1e-78  92.89  2775312    CP143871.1       
+Synechococcus elongatus IITB3 chromosome, complete genome         Synechococcu... NA              3121543    305    611   100%  1e-78  92.89  2745998    CP143849.1       
+Scytonematopsis contorta HA4267-MV1 clone B3-5 + p3 16S...        Scytonematop... NA              1049028    305    305   98%   1e-78  93.24  1889       HQ847558.1       
+Synechococcus elongatus IITB7 chromosome, complete genome         Synechococcu... NA              3115657    305    611   100%  1e-78  92.89  2754161    CP143859.1       
+Scytonematopsis contorta HA4267-MV1 clone B3-5 + p2 16S...        Scytonematop... NA              1049028    305    305   98%   1e-78  93.24  1889       HQ847557.1       
+Synechococcus elongatus IITB8 chromosome, complete genome         Synechococcu... NA              3115658    305    611   100%  1e-78  92.89  2745998    CP143862.1       
+Hydrocoryne spongiosa HA4387-MV2 16S ribosomal RNA gene, parti... Hydrocoryne ... NA              1117099    305    305   100%  1e-78  92.89  1796       JN385287.1       
+Hydrocoryne spongiosa BACA0107 16S ribosomal RNA gene, partial... Hydrocoryne ... NA              3157557    305    305   100%  1e-78  92.89  1363       PP847243.1       
+Merismopedia glauca CCAP 1448/3 partial 16S rRNA gene             Merismopedia... NA              1296344    305    305   99%   1e-78  93.27  1594       HF678499.1       
+Picosynechococcus sp. NKBG15041c DNA, complete genome             Picosynechoc... NA              1407650    302    604   100%  1e-77  92.45  2845435    AP040363.1       
+Chroococcidiopsis sp. CCMEE 246 16S ribosomal RNA gene, partia... Chroococcidi... NA              1027981    302    302   96%   1e-77  93.60  1260       JF810073.1       
+Synechococcus sp. NIES-970 DNA, complete genome                   [Synechococc... NA              1827144    302    604   100%  1e-77  92.45  2836539    AP017959.1       
+Chamaesiphon minutus strain PCC 6605 16S ribosomal RNA, partia... Chamaesiphon... NA              1173032    302    302   96%   1e-77  93.60  1479       NR_102459.1      
+Chamaesiphon minutus PCC 6605, complete genome                    Chamaesiphon... NA              1173020    302    906   96%   1e-77  93.60  6284095    CP003600.1       
+Synechococcus sp. NKBG15041c gene for 16S ribosomal RNA, parti... Picosynechoc... NA              1407650    302    302   100%  1e-77  92.45  1453       LC006088.1       
+Cyanobacterium cCLB-12 16S ribosomal RNA gene, partial sequence   cyanobacteri... NA              925396     302    302   100%  1e-77  92.49  747        HQ230231.1       
+Aliterella sp. LEGE 221417 16S ribosomal RNA gene and 16S-23S...  Aliterella s... NA              3391861    302    302   100%  1e-77  92.49  1989       PQ861015.1       
+Merismopedia glauca 0BB39S01 16S rRNA gene, strain 0BB39S01       Merismopedia... NA              371754     302    302   96%   1e-77  93.60  1475       AJ781044.1       
+Stenomitos sp. BACA0708 16S ribosomal RNA gene and 16S-23S...     Stenomitos s... NA              2980631    300    300   100%  5e-77  92.42  2073       OP508343.1       
+Synechococcus sp. SM-09 16S ribosomal RNA gene, partial sequence  Synechococcu... NA              1027392    300    300   100%  5e-77  92.42  1427       JF703680.1       
+Synechococcus elongatus UTEX 3055 chromosome, complete genome     Synechococcu... NA              2479200    300    600   100%  5e-77  92.42  2767524    CP033061.1       
+Synechococcus elongatus PCC 6301 16S ribosomal RNA gene, parti... Synechococcu... NA              269084     300    300   100%  5e-77  92.42  1461       KM019981.1       
+Sphaerospermopsis reniformis NIES-1947 gene for 16S ribosomal...  Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1484       LC455625.1       
+Stenomitos sp. BACA0618 16S ribosomal RNA gene and 16S-23S...     Stenomitos s... NA              2918974    300    300   100%  5e-77  92.42  2083       OM732255.1       
+Synechococcus elongatus PCC 6301 16S ribosomal RNA, complete...   Synechococcu... NA              269084     300    300   100%  5e-77  92.42  1489       NR_074309.1      
+Anabaena sphaerica f. conoidea 2LT27S09 partial 16S rRNA gene     Anabaena sph... NA              543807     300    300   100%  5e-77  92.42  1461       FM177479.1       
+Sphaerospermopsis reniformis gene for 16S ribosomal RNA, parti... Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1411       LC319769.1       
+Synechococcus elongatus PCC 11801 chromosome, complete genome     Synechococcu... NA              2219813    300    600   100%  5e-77  92.42  2716860    CP030139.2       
+Aphanizomenon aphanizomenoides UADFA13 16S ribosomal RNA gene,... Sphaerosperm... NA              641625     300    300   100%  5e-77  92.42  711        FJ895123.1       
+Sphaerospermopsis reniformis NIES-1948 gene for 16S ribosomal...  Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1484       LC455623.1       
+Synechococcus sp. UTEX 2973, complete genome                      Synechococcu... NA              1350461    300    600   100%  5e-77  92.42  2690418    CP006471.1       
+Sphaerospermopsis oumiana NIES-1679 gene for 16S ribosomal RNA... Sphaerosperm... NA              747503     300    300   100%  5e-77  92.42  1449       LC455647.1       
+Synechococcus elongatus PCC 7942 16S ribosomal RNA gene, parti... Synechococcu... NA              1140       300    300   100%  5e-77  92.42  1411       AF132930.1       
+Sphaerospermopsis reniformis NIES-1692 gene for 16S ribosomal...  Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1484       LC455643.1       
+Synechococcus elongatus PCC 6311 chromosome                       Synechococcu... NA              2883261    300    300   100%  5e-77  92.42  2689791    CP088958.1       
+Sphaerospermopsis crassa CHAB4404 16S ribosomal RNA gene,...      Sphaerosperm... NA              1810405    300    300   100%  5e-77  92.42  1412       KT583658.1       
+Sphaerospermopsis reniformis NRERC-604 16S ribosomal RNA gene,... Sphaerosperm... NA              2724494    300    300   100%  5e-77  92.42  1479       MT294020.1       
+Aphanizomenon aphanizomenoides UADFA3 16S ribosomal RNA gene,...  Sphaerosperm... NA              641626     300    300   100%  5e-77  92.42  934        FJ895118.1       
+Aphanizomenonaceae cyanobacterium CYA1 16S ribosomal RNA gene,... Aphanizomeno... NA              3233296    300    300   100%  5e-77  92.42  803        PP999715.1       
+Synechococcus elongatus PCC 7942 = FACHB-805 strain UTEX 2434...  Synechococcu... NA              1140       300    600   100%  5e-77  92.42  2695906    CP130602.1       
+Anacystis nidulans 6301 16S rRNA gene and 5' flank                Synechococcu... NA              269084     300    300   100%  5e-77  92.42  2918       X03538.1         
+Synechococcus elongatus PCC 6301 chromosome, complete sequence    Synechococcu... NA              269084     300    600   100%  5e-77  92.42  2695389    CP085785.1       
+Sphaerospermopsis crassa 16S ribosomal RNA, partial sequence      Sphaerosperm... NA              1937001    300    300   100%  5e-77  92.42  1412       NR_177751.1      
+Sphaerospermopsis reniformis gene for 16S ribosomal RNA, parti... Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1411       LC319771.1       
+Aphanizomenon aphanizomenoides UADFA5 16S ribosomal RNA gene,...  Sphaerosperm... NA              641627     300    300   100%  5e-77  92.42  934        FJ895119.1       
+Synechococcus elongatus PCC 7942 = FACHB-805 strain PCC 7942...   Synechococcu... NA              1140       300    600   100%  5e-77  92.42  2695903    CP000100.1       
+Synechococcus sp. R42DM 16S ribosomal RNA gene, partial sequence  Synechococcu... NA              1980980    300    300   100%  5e-77  92.42  1416       KY962810.1       
+Calothrix sp. R42 16S ribosomal RNA gene, partial sequence        Calothrix sp... NA              2080837    300    300   100%  5e-77  92.42  1182       MG356333.1       
+Sphaerospermopsis sp. CHAB4401 16S ribosomal RNA gene, partial... Sphaerosperm... NA              1810402    300    300   100%  5e-77  92.42  1412       KT583655.1       
+Synechococcus elongatus PCC 6301 DNA, complete genome             Synechococcu... NA              269084     300    600   100%  5e-77  92.42  2696255    AP008231.1       
+Sphaerospermopsis reniformis gene for 16S ribosomal RNA, parti... Sphaerosperm... NA              531300     300    300   100%  5e-77  92.42  1411       LC319770.1       
+Synechococcus elongatus PCC 7943 chromosome                       Synechococcu... NA              115747     300    300   100%  5e-77  92.42  2689559    CP088961.1       
+Cyanobacterium IHB-283 16S ribosomal RNA gene, partial sequence   cyanobacteri... NA              1048423    300    300   100%  5e-77  92.42  1444       JF966678.1       
+Synechococcus elongatus PCC 6301 partial 16S rRNA gene, strain... Synechococcu... NA              269084     300    300   100%  5e-77  92.42  2019       HF678511.1       
+Synechococcus elongatus M14.2 chromosome, complete genome         Synechococcu... NA              3242107    300    600   100%  5e-77  92.42  2717027    CP168031.1       
+Synechococcus elongatus gene for 16S ribosomal RNA, partial...    Synechococcu... NA              32046      300    300   100%  5e-77  92.42  1489       AB871649.1       
+Synechococcus PCC7943 16S ribosomal RNA gene, partial sequence    Synechococcu... NA              115747     300    300   100%  5e-77  92.42  1410       AF216949.1       
+Sphaerospermopsis reniformis FBCC-A194 16S ribosomal RNA gene,... Sphaerosperm... NA              2940287    300    300   100%  5e-77  92.42  1468       ON411418.1       
+Sphaerospermopsis reniformis NIES-1946 gene for 16S ribosomal...  Sphaerosperm... NA              531300     298    298   97%   2e-76  93.14  1484       LC455627.1       
+Pseudoaliinostoc sp. BACA0063 16S ribosomal RNA gene and 16S-2... Pseudoaliino... NA              3030817    298    298   98%   2e-76  92.75  2044       OQ540721.1       
+Amphiheterocytum lacustre CCIBt 3627 16S ribosomal RNA gene,...   Amphiheteroc... NA              2083016    298    298   98%   2e-76  92.75  1767       MG921182.1       
+Scytonematopsis sp. BACA0005 16S ribosomal RNA gene, partial...   Scytonematop... NA              2716419    298    298   98%   2e-76  92.75  2189       MT176688.2       
+Sphaerospermopsis reniformis NIES-1949 gene for 16S ribosomal...  Sphaerosperm... NA              531300     298    298   97%   2e-76  93.14  1484       LC455621.1       
+Pseudoaliinostoc sejongens ACKU 594 16S ribosomal RNA gene,...    Pseudoaliino... NA              2704252    298    298   98%   2e-76  92.75  2412       MT000689.1       
+Pseudoaliinostoc sejongens strain ACKU 594 16S ribosomal RNA,...  Pseudoaliino... NA              2801900    298    298   98%   2e-76  92.75  1470       NR_172602.1      
+Sphaerospermopsis aphanizomenoides gene for 16S ribosomal RNA,... Sphaerosperm... NA              459663     292    292   100%  9e-75  91.47  1411       LC037453.1       
+
+
+Alignments:
+
+>Spirulina sp. strain BDUT005 16S ribosomal RNA gene, partial sequence
+Sequence ID: PX775868.1 Length: 818
+Range 1: 1 to 210
+
+Score:388 bits(210), Expect:1e-103, 
+Identities:210/210(100%),  Gaps:0/210(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+
+Query  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+
+Query  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+
+Query  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||||||||||||||
+Sbjct  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+
+
+
+
+>Spirulina sp. genes for 16S rRNA, tRNA-Ile, 23S rRNA
+Sequence ID: X75045.1 Length: 1970
+Range 1: 1 to 210
+
+Score:388 bits(210), Expect:1e-103, 
+Identities:210/210(100%),  Gaps:0/210(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+
+Query  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+
+Query  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+
+Query  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||||||||||||||
+Sbjct  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+
+
+
+
+>Spirulina major strain PCC 6313 16S ribosomal RNA, partial sequence
+Sequence ID: NR_125712.1 Length: 1457
+Range 1: 1 to 210
+
+Score:388 bits(210), Expect:1e-103, 
+Identities:210/210(100%),  Gaps:0/210(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+
+Query  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+
+Query  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+
+Query  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||||||||||||||
+Sbjct  181  GATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+
+
+
+
+>Spirulina major 1LT27S06 partial 16S rRNA gene
+Sequence ID: FM177505.1 Length: 1414
+Range 1: 1 to 211
+
+Score:383 bits(207), Expect:5e-102, 
+Identities:210/211(99%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  211
+
+
+
+
+>Spirulina subsalsa CCAP 1475/2 partial 16S rRNA gene
+Sequence ID: HF678507.1 Length: 1963
+Range 1: 16 to 226
+
+Score:383 bits(207), Expect:5e-102, 
+Identities:210/211(99%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  16   GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  75
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  76   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  135
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  195
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  196  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  226
+
+
+
+
+>Spirulina major 0BB22S09 partial 16S rRNA gene
+Sequence ID: AJ635436.1 Length: 1473
+>Spirulina major 0BB36S18 partial 16S rRNA gene, strain 0BB36S18
+Sequence ID: AJ639890.1 Length: 1473 
+Range 1: 13 to 223
+
+Score:383 bits(207), Expect:5e-102, 
+Identities:210/211(99%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  13   GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  72
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  73   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  132
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  133  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  192
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  193  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  223
+
+
+
+
+>Spirulina sp. GLS010 16S ribosomal RNA gene, partial sequence
+Sequence ID: FJ546714.1 Length: 1410
+Range 1: 1 to 211
+
+Score:361 bits(195), Expect:2e-95, 
+Identities:206/211(98%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||  ||||||||  ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGGATCTTCGGATCTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  211
+
+
+
+
+>Spirulina sp. PCC 6313 partial ribosomal RNA operon, strain PCC 6313
+Sequence ID: AM709631.1 Length: 4617
+Range 1: 1 to 198
+
+Score:353 bits(191), Expect:4e-93, 
+Identities:196/198(99%),  Gaps:1/198(0%), Strand: Plus/Plus
+
+Query  14   GGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGCGGACGGGTGAGT  72
+            |||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  1    GGTATGCCTAACACATGCAAGTCGAACGGTCTCTCCGGAGATAGTGGCGGACGGGTGAGT  60
+
+Query  73   AACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGACTGCTAATACCCG  132
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   AACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGACTGCTAATACCCG  120
+
+Query  133  ATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCTGATTAGCTAGTT  192
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  ATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCTGATTAGCTAGTT  180
+
+Query  193  GGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||
+Sbjct  181  GGTGGGGTAAGAGCCTAC  198
+
+
+
+
+>Spirulina sp. TU_10 16S ribosomal RNA gene, partial sequence
+Sequence ID: PV932213.1 Length: 1357
+Range 1: 1 to 198
+
+Score:353 bits(191), Expect:4e-93, 
+Identities:196/198(99%),  Gaps:1/198(0%), Strand: Plus/Plus
+
+Query  14   GGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGCGGACGGGTGAGT  72
+            |||||| ||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  1    GGTATGCCTAACACATGCAAGTCGAACGGTCTCTCCGGAGATAGTGGCGGACGGGTGAGT  60
+
+Query  73   AACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGACTGCTAATACCCG  132
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   AACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGACTGCTAATACCCG  120
+
+Query  133  ATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCTGATTAGCTAGTT  192
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  ATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCTGATTAGCTAGTT  180
+
+Query  193  GGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||
+Sbjct  181  GGTGGGGTAAGAGCCTAC  198
+
+
+
+
+>Spirulina sp. SP_GRI 16S ribosomal RNA gene, partial sequence
+Sequence ID: ON230018.1 Length: 921
+Range 1: 1 to 211
+
+Score:344 bits(186), Expect:2e-90, 
+Identities:203/211(96%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||  ||||||||  ||||| 
+Sbjct  1    GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGGATCTTCGGATCTAGTGT  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+             |||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||
+Sbjct  61   AGGACGGGTGAGTAACACGTGAGAATCTGGCATCAGGATGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  211
+
+
+
+
+>Pseudoaliinostoc sp. BACA0057 16S ribosomal RNA gene, partial sequence
+Sequence ID: MT176718.2 Length: 2032
+Range 1: 6 to 212
+
+Score:326 bits(176), Expect:8e-85, 
+Identities:197/207(95%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  6    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  65
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  66   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  125
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||||||||||| || ||||||||||||||||||| |
+Sbjct  126  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTAATTGCCTGAAGATGAGCTCGCGTC  185
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            ||||||||||||||||| |||||||||
+Sbjct  186  TGATTAGCTAGTTGGTGTGGTAAGAGC  212
+
+
+
+
+>Pseudoaliinostoc sp. BACA0068 16S ribosomal RNA gene, partial sequence
+Sequence ID: MT176724.2 Length: 2029
+Range 1: 3 to 209
+
+Score:326 bits(176), Expect:8e-85, 
+Identities:197/207(95%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  3    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  62
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  63   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  122
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||||||||||| || ||||||||||||||||||| |
+Sbjct  123  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTAATTGCCTGAAGATGAGCTCGCGTC  182
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            ||||||||||||||||| |||||||||
+Sbjct  183  TGATTAGCTAGTTGGTGTGGTAAGAGC  209
+
+
+
+
+>Sphaerospermopsis sp. CENA247 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: MN551909.1 Length: 2002
+Range 1: 1 to 211
+
+Score:322 bits(174), Expect:1e-83, 
+Identities:199/211(94%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  211
+
+
+
+
+>Nostoc sp. NIES-2111 DNA, nearly complete genome
+Sequence ID: AP018184.1 Length: 6522801
+Range 1: 5002910 to 5003116
+
+Score:320 bits(173), Expect:4e-83, 
+Identities:196/207(95%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  5002910  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  5002969
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  5002970  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  5003029
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||||||||||||||||| |
+Sbjct  5003030  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  5003089
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  5003090  TGATTAGCTAGTTGGTGTGGTAAGAGC  5003116
+
+
+
+
+Range 2: 687850 to 688056
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  687850  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  687909
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  687910  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  687969
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  687970  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  688029
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+               ||||||||||||||||| |||||||||
+Sbjct  688030  TGATTAGCTAGTTGGTGTGGTAAGAGC  688056
+
+
+
+
+Range 3: 1123771 to 1123977
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  1123977  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  1123918
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  1123917  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  1123858
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  1123857  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  1123798
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  1123797  TGATTAGCTAGTTGGTGTGGTAAGAGC  1123771
+
+
+
+
+Range 4: 6513584 to 6513790
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  6513584  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  6513643
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  6513644  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  6513703
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  6513704  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  6513763
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  6513764  TGATTAGCTAGTTGGTGTGGTAAGAGC  6513790
+
+
+
+
+>Calothrix sp. SA4 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: MK956202.1 Length: 1414
+Range 1: 5 to 211
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  5    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  64
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||| 
+Sbjct  65   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGG  124
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  125  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  184
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  185  TGATTAGCTAGTAGGTGTGGTAAGAGC  211
+
+
+
+
+>Nostoc sp. MS1 DNA, complete genome
+Sequence ID: AP023441.1 Length: 7141037
+Range 1: 1724599 to 1724805
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  1724805  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  1724746
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  1724745  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  1724686
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| ||||||||||||||| ||||| ||||||||||||| |
+Sbjct  1724685  CTGCTAATACCGGATGTGCCGAGAGGTGAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  1724626
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  1724625  TGATTAGCTAGTTGGTGTGGTAAGAGC  1724599
+
+
+
+
+Range 2: 1859621 to 1859827
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  1859827  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  1859768
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  1859767  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  1859708
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| ||||||||||||||| ||||| ||||||||||||| |
+Sbjct  1859707  CTGCTAATACCGGATGTGCCGAGAGGTGAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  1859648
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  1859647  TGATTAGCTAGTTGGTGTGGTAAGAGC  1859621
+
+
+
+
+Range 3: 4012399 to 4012605
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  4012399  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  4012458
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  4012459  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  4012518
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| ||||||||||||||| ||||| ||||||||||||| |
+Sbjct  4012519  CTGCTAATACCGGATGTGCCGAGAGGTGAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  4012578
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  4012579  TGATTAGCTAGTTGGTGTGGTAAGAGC  4012605
+
+
+
+
+Range 4: 4175855 to 4176061
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  4175855  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  4175914
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  4175915  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  4175974
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| ||||||||||||||| ||||| ||||||||||||| |
+Sbjct  4175975  CTGCTAATACCGGATGTGCCGAGAGGTGAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  4176034
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  4176035  TGATTAGCTAGTTGGTGTGGTAAGAGC  4176061
+
+
+
+
+>Calothrix sp. SA47 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: MK956208.1 Length: 1410
+Range 1: 9 to 215
+
+Score:315 bits(170), Expect:2e-81, 
+Identities:195/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  9    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||| 
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGG  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  129  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  189  TGATTAGCTAGTAGGTGTGGTAAGAGC  215
+
+
+
+
+>Camptylonemopsis sp. HA4241-MV5 clone B2-3 + p3 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: HQ847564.1 Length: 1820
+Range 1: 18 to 224
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  18   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  77
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||| 
+Sbjct  78   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGG  137
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  138  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  197
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| ||| |||||
+Sbjct  198  TGATTAGCTAGTAGGTGTGGTRAGAGC  224
+
+
+
+
+>Sphaerospermopsis sp. LEGE 00249 16S ribosomal RNA gene, partial sequence
+Sequence ID: KC989701.1 Length: 743
+Range 1: 21 to 231
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:197/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  21   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGG  80
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  81   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  140
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||||||||||||||||||||||||| |||||||| |
+Sbjct  141  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  200
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  201  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  231
+
+
+
+
+>Calothrix sp. CHAB2384 16S ribosomal RNA gene, partial sequence
+Sequence ID: MK209095.1 Length: 1433
+Range 1: 19 to 229
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:197/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||| | |||||||| |||||||
+Sbjct  19   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGATGTCTTCGGACATAGTGG  78
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||||
+Sbjct  79   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGA  138
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||| |||||||||| ||||| ||||||||||||| |
+Sbjct  139  CTGCTAATACCGGATGTGCCGAAAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  198
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  199  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  229
+
+
+
+
+>Gloeotrichia longicauda SAG 32.84 16S ribosomal RNA gene, partial sequence
+Sequence ID: KM019918.1 Length: 1459
+Range 1: 1 to 211
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:197/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||| | |||||||| |||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGATGTCTTCGGACATAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||| |||||||||| ||||| ||||||||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGAAAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  211
+
+
+
+
+>Camptylonemopsis sp. HA4241-MV5 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, tRNA-Ile and tRNA-Ala genes, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: JN385292.1 Length: 2132
+Range 1: 18 to 224
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  18   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  77
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||| 
+Sbjct  78   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGG  137
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  138  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  197
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| ||| |||||
+Sbjct  198  TGATTAGCTAGTAGGTGTGGTRAGAGC  224
+
+
+
+
+>Anabaena sp. XPORK36C 16S ribosomal RNA gene, partial sequence
+Sequence ID: EF568907.1 Length: 1407
+Range 1: 21 to 231
+
+Score:311 bits(168), Expect:2e-80, 
+Identities:197/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||| ||||||||||||||
+Sbjct  21   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTTTTCGGAGATAGTGG  80
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||||||  |||||||||||||||||||||
+Sbjct  81   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTCGGGGACAACAGTTGGAAACGA  140
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| |||||||||| |||||||||  ||   ||||||||||||||||||| |
+Sbjct  141  CTGCTAATACCGGATATGCCGAGAGGTGAAAGGCTTGCTGCCTGAAGATGAGCTCGCGTC  200
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  201  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  231
+
+
+
+
+>Leptolyngbyales cyanobacterium AT2016/25 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: PX698344.1 Length: 2044
+>Leptolyngbyales cyanobacterium SN2022/33 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: PX698345.1 Length: 2044 
+Range 1: 24 to 238
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:201/216(93%),  Gaps:7/216(3%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACG--GTCTCTTCGG-AGATAG  56
+            ||||| |||||||||||||| ||||||||||||||||||||  ||  |||||| |  |||
+Sbjct  24   GATGATCGCTGGCGGTATGCTTAACACATGCAAGTCGAACGAAGT-GCTTCGGCACTTAG  82
+
+Query  57   TGGCGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAA  116
+            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  83   TGGCGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAA  142
+
+Query  117  CGACTGCTAATACCCGATATGCCGAAAGGTGAAA-GATTTATCGCC-TGAAGATGAGCTC  174
+            |||||||||||||||||| |||||| |||||||| ||||||||||| |||||||||||||
+Sbjct  143  CGACTGCTAATACCCGATGTGCCGAGAGGTGAAACGATTTATCGCCTTGAAGATGAGCTC  202
+
+Query  175  GCGGCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||| ||||||||||||||||||||||||||||||||
+Sbjct  203  GCGTCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  238
+
+
+
+
+>Nostoc sp. NIES-3756 DNA, complete genome
+Sequence ID: AP017295.1 Length: 6463965
+Range 1: 1524816 to 1525022
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  1525022  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  1524963
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  1524962  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  1524903
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  1524902  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  1524843
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  1524842  TGATTAGCTAGTTGGTGTGGTAAGAGC  1524816
+
+
+
+
+Range 2: 5347910 to 5348116
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  5347910  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  5347969
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  5347970  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  5348029
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  5348030  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  5348089
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  5348090  TGATTAGCTAGTTGGTGTGGTAAGAGC  5348116
+
+
+
+
+Range 3: 5782781 to 5782987
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  5782987  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  5782928
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  5782927  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  5782868
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  5782867  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  5782808
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  5782807  TGATTAGCTAGTTGGTGTGGTAAGAGC  5782781
+
+
+
+
+Range 4: 6463524 to 6463730
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  6463730  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  6463671
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  6463670  CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  6463611
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||| |||||| |||| |||||||||| ||||| ||||||||||||| |
+Sbjct  6463610  CTGCTAATACCGGATGTGCCGAGAGGTAAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  6463551
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+                ||||||||||||||||| |||||||||
+Sbjct  6463550  TGATTAGCTAGTTGGTGTGGTAAGAGC  6463524
+
+
+
+
+>Leptolyngbyales cyanobacterium strain SN2022/33 16S ribosomal RNA gene, partial sequence
+Sequence ID: PX572938.1 Length: 1404
+>Leptolyngbyales cyanobacterium strain AT2016/25 16S ribosomal RNA gene, partial sequence
+Sequence ID: PX572939.1 Length: 1404 
+Range 1: 24 to 238
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:201/216(93%),  Gaps:7/216(3%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACG--GTCTCTTCGG-AGATAG  56
+            ||||| |||||||||||||| ||||||||||||||||||||  ||  |||||| |  |||
+Sbjct  24   GATGATCGCTGGCGGTATGCTTAACACATGCAAGTCGAACGAAGT-GCTTCGGCACTTAG  82
+
+Query  57   TGGCGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAA  116
+            ||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  83   TGGCGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAA  142
+
+Query  117  CGACTGCTAATACCCGATATGCCGAAAGGTGAAA-GATTTATCGCC-TGAAGATGAGCTC  174
+            |||||||||||||||||| |||||| |||||||| ||||||||||| |||||||||||||
+Sbjct  143  CGACTGCTAATACCCGATGTGCCGAGAGGTGAAACGATTTATCGCCTTGAAGATGAGCTC  202
+
+Query  175  GCGGCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||| ||||||||||||||||||||||||||||||||
+Sbjct  203  GCGTCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  238
+
+
+
+
+>Nostoc elgonense TH3S05 partial 16S rRNA gene, strain TH3S05
+Sequence ID: AM711548.1 Length: 1461
+Range 1: 1 to 207
+
+Score:309 bits(167), Expect:9e-80, 
+Identities:194/207(94%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||| ||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTCCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| |||||||||||||||| ||||| ||||||||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATTGCCTGGAGATGAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  181  TGATTAGCTAGTAGGTGTGGTAAGAGC  207
+
+
+
+
+>Synechococcus elongatus PCC 11802 chromosome, complete genome
+Sequence ID: CP034671.2 Length: 2775312
+Range 1: 1807710 to 1807920
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1807920  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1807861
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1807860  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1807801
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1807800  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1807741
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1807740  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1807710
+
+
+
+
+Range 2: 2453738 to 2453948
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2453738  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2453797
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2453798  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2453857
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2453858  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2453917
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2453918  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2453948
+
+
+
+
+>Synechococcus elongatus IITB4 chromosome, complete genome
+Sequence ID: CP143853.1 Length: 2887410
+Range 1: 1924271 to 1924481
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1924481  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1924422
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1924421  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1924362
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1924361  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1924302
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1924301  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1924271
+
+
+
+
+Range 2: 2571013 to 2571223
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2571013  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2571072
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2571073  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2571132
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2571133  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2571192
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2571193  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2571223
+
+
+
+
+>Anabaena sphaerica f. conoidea 1LT27S01 partial 16S rRNA gene
+Sequence ID: FM177480.1 Length: 1460
+Range 1: 1 to 211
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Okeanomitos corallinicola TIOX110 chromosome, complete genome
+Sequence ID: CP150886.1 Length: 5144906
+Range 1: 473390 to 473600
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  473390  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  473449
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| ||||||||| |||||| |||  |||||||||||||||||||||
+Sbjct  473450  CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  473509
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  473510  CTGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  473569
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||| | ||||| | ||||
+Sbjct  473570  TGATTAGCTAGTTGGTAGTGTAAGGGACTAC  473600
+
+
+
+
+Range 2: 650460 to 650670
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  650460  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  650519
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| ||||||||| |||||| |||  |||||||||||||||||||||
+Sbjct  650520  CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  650579
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  650580  CTGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  650639
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||| | ||||| | ||||
+Sbjct  650640  TGATTAGCTAGTTGGTAGTGTAAGGGACTAC  650670
+
+
+
+
+Range 3: 2313079 to 2313289
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  2313079  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  2313138
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||| |||||| |||  |||||||||||||||||||||
+Sbjct  2313139  CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  2313198
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  2313199  CTGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  2313258
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||| | ||||| | ||||
+Sbjct  2313259  TGATTAGCTAGTTGGTAGTGTAAGGGACTAC  2313289
+
+
+
+
+Range 4: 2369037 to 2369247
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  2369247  GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  2369188
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| ||||||||| |||||| |||  |||||||||||||||||||||
+Sbjct  2369187  CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  2369128
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  2369127  CTGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  2369068
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||| | ||||| | ||||
+Sbjct  2369067  TGATTAGCTAGTTGGTAGTGTAAGGGACTAC  2369037
+
+
+
+
+>Anabaena aphanizomenoides CENA188 16S ribosomal RNA gene, partial sequence
+Sequence ID: FJ830569.1 Length: 1411
+Range 1: 1 to 211
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||| ||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGCGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGAAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Anabaena sp. SSM-00 16S ribosomal RNA gene, partial sequence
+Sequence ID: DQ364237.1 Length: 1317
+Range 1: 1 to 211
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| |||||| |||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||| | ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTAGTGTAAGGGACTAC  211
+
+
+
+
+>Anabaena sp. XP35A 16S ribosomal RNA gene, partial sequence
+Sequence ID: EF583855.1 Length: 1560
+Range 1: 24 to 234
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||| ||||||||||||||
+Sbjct  24   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTTTTCGGAGATAGTGG  83
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||| ||||| ||  |||||||||||||||||||||
+Sbjct  84   CGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCGGGTCGGGGACAACAGTTGGAAACGA  143
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| |||||||||| |||||||||  ||   ||||||||||||||||||| |
+Sbjct  144  CTGCTAATACCGGATATGCCGAGAGGTGAAAGGCTTGCTGCCTGAAGATGAGCTCGCGTC  203
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  204  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  234
+
+
+
+
+>Synechococcus elongatus IITB6 chromosome, complete genome
+Sequence ID: CP143871.1 Length: 2775312
+Range 1: 1807710 to 1807920
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1807920  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1807861
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1807860  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1807801
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1807800  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1807741
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1807740  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1807710
+
+
+
+
+Range 2: 2453738 to 2453948
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2453738  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2453797
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2453798  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2453857
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2453858  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2453917
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2453918  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2453948
+
+
+
+
+>Synechococcus elongatus IITB3 chromosome, complete genome
+Sequence ID: CP143849.1 Length: 2745998
+Range 1: 1799666 to 1799876
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1799876  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1799817
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1799816  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1799757
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1799756  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1799697
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1799696  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1799666
+
+
+
+
+Range 2: 2437286 to 2437496
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2437286  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2437345
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2437346  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2437405
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2437406  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2437465
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2437466  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2437496
+
+
+
+
+>Scytonematopsis contorta HA4267-MV1 clone B3-5 + p3 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: HQ847558.1 Length: 1889
+Range 1: 18 to 224
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:193/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  18   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  77
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||  ||||||| | ||||||||||||||||||||
+Sbjct  78   CGGACGGGTGAGTAACGCGTGAGAATCTTCCTTCAGGTTAGGGACAACAGTTGGAAACGA  137
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            |||||||| ||  || |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  138  CTGCTAATWCCTAATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  197
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  198  TGATTAGCTAGTAGGTGTGGTAAGAGC  224
+
+
+
+
+>Synechococcus elongatus IITB7 chromosome, complete genome
+Sequence ID: CP143859.1 Length: 2754161
+Range 1: 1813153 to 1813363
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1813363  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1813304
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1813303  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1813244
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1813243  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1813184
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1813183  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1813153
+
+
+
+
+Range 2: 2444818 to 2445028
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2444818  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2444877
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2444878  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2444937
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2444938  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2444997
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2444998  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2445028
+
+
+
+
+>Scytonematopsis contorta HA4267-MV1 clone B3-5 + p2 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: HQ847557.1 Length: 1889
+Range 1: 18 to 224
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:193/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  18   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  77
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||  ||||||| | ||||||||||||||||||||
+Sbjct  78   CGGACGGGTGAGTAACGCGTGAGAATCTTCCTTCAGGTTAGGGACAACAGTTGGAAACGA  137
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            |||||||| ||  || |||||||||||||||||||||| ||||||||||||||||||| |
+Sbjct  138  CTGCTAATWCCTAATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGATGAGCTCGCGTC  197
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  198  TGATTAGCTAGTAGGTGTGGTAAGAGC  224
+
+
+
+
+>Synechococcus elongatus IITB8 chromosome, complete genome
+Sequence ID: CP143862.1 Length: 2745998
+Range 1: 1799666 to 1799876
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1799876  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1799817
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1799816  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1799757
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1799756  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1799697
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1799696  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1799666
+
+
+
+
+Range 2: 2437286 to 2437496
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  2437286  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2437345
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2437346  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2437405
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2437406  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2437465
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2437466  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2437496
+
+
+
+
+>Hydrocoryne spongiosa HA4387-MV2 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: JN385287.1 Length: 1796
+Range 1: 18 to 228
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||  |||| |||  ||||||
+Sbjct  18   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGAATCTTAGGATTTAGTGG  77
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  78   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  137
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| |||||||||| |||||||||||| || ||||| ||||||||||||| |
+Sbjct  138  CTGCTAATACCGGATATGCCGAGAGGTGAAAGATTAATTGCCTGGAGATGAGCTCGCGTC  197
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  198  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  228
+
+
+
+
+>Hydrocoryne spongiosa BACA0107 16S ribosomal RNA gene, partial sequence
+Sequence ID: PP847243.1 Length: 1363
+Range 1: 10 to 220
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:196/211(93%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||  |||| |||  ||||||
+Sbjct  10   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGAATCTTAGGATTTAGTGG  69
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  70   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  129
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| |||||||||| |||||||||||| || ||||| ||||||||||||| |
+Sbjct  130  CTGCTAATACCGGATATGCCGAGAGGTGAAAGATTAATTGCCTGGAGATGAGCTCGCGTC  189
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  190  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  220
+
+
+
+
+>Merismopedia glauca CCAP 1448/3 partial 16S rRNA gene
+Sequence ID: HF678499.1 Length: 1594
+Range 1: 16 to 222
+
+Score:305 bits(165), Expect:1e-78, 
+Identities:194/208(93%),  Gaps:2/208(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||| ||||| |||||||| |||||||
+Sbjct  16   GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCG-ACGGTGTCTTCGGACATAGTGG  74
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||||||| |||| ||  ||||||||||||||||||||||||||||||
+Sbjct  75   CGGACGGGTGAGTAACACGTAAGAACCTACCTTCAGGATGGGGACAACAGTTGGAAACGA  134
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| ||| ||||||||||||||||||||||| ||| |||||
+Sbjct  135  CTGCTAATACCCGATGTGCCGAGAGGCGAAAGATTTATCGCCTGAAGATGGGCTTGCGGC  194
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCC  207
+            ||||||||||| ||||||||||||||||
+Sbjct  195  TGATTAGCTAGATGGTGGGGTAAGAGCC  222
+
+
+
+
+>Picosynechococcus sp. NKBG15041c DNA, complete genome
+Sequence ID: AP040363.1 Length: 2845435
+Range 1: 1374039 to 1374250
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:196/212(92%),  Gaps:2/212(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||| |||||||||||||||||||||   ||||||||  ||||||
+Sbjct  1374039  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGAAGTCTTCGGACTTAGTGG  1374098
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  1374099  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  1374158
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATC-GCCTGAAGATGAGCTCGCGG  178
+                |||||||||||||||||||||| ||||||||  ||| |  ||||||||||||||||||| 
+Sbjct  1374159  CTGCTAATACCCGATATGCCGAGAGGTGAAATCTTTTTTGGCCTGAAGATGAGCTCGCGT  1374218
+
+Query  179      CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                ||||||||||||||||||||||||||||||||
+Sbjct  1374219  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1374250
+
+
+
+
+Range 2: 2649028 to 2649239
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:196/212(92%),  Gaps:2/212(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| ||||||||||||||||||||   ||||||||  ||||||
+Sbjct  2649239  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGAAGTCTTCGGACTTAGTGG  2649180
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  2649179  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  2649120
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCG-CCTGAAGATGAGCTCGCGG  178
+                |||||||||||||||||||||| ||||||||  ||| | | |||||||||||||||||| 
+Sbjct  2649119  CTGCTAATACCCGATATGCCGAGAGGTGAAATCTTTTTTGGCCTGAAGATGAGCTCGCGT  2649060
+
+Query  179      CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                ||||||||||||||||||||||||||||||||
+Sbjct  2649059  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2649028
+
+
+
+
+>Chroococcidiopsis sp. CCMEE 246 16S ribosomal RNA gene, partial sequence
+Sequence ID: JF810073.1 Length: 1260
+Range 1: 8 to 210
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||| |||||||| |||||||
+Sbjct  8    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  67
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  68   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  127
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||| ||||||| ||||| ||||||||| ||| || ||||||||||||||||||| |
+Sbjct  128  CTGCTAAGACCCGATGTGCCGCAAGGTGAAATATTCATAGCCTGAAGATGAGCTCGCGTC  187
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAA  202
+            ||||||||||||||| | |||||
+Sbjct  188  TGATTAGCTAGTTGGGGAGGTAA  210
+
+
+
+
+>Synechococcus sp. NIES-970 DNA, complete genome
+Sequence ID: AP017959.1 Length: 2836539
+Range 1: 1586425 to 1586636
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:196/212(92%),  Gaps:2/212(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||| |||||||||||||||||||||   ||||||||  ||||||
+Sbjct  1586425  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGAAGTCTTCGGACTTAGTGG  1586484
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  1586485  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  1586544
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATC-GCCTGAAGATGAGCTCGCGG  178
+                |||||||||||||||||||||| ||||||||  ||| |  ||||||||||||||||||| 
+Sbjct  1586545  CTGCTAATACCCGATATGCCGAGAGGTGAAATCTTTTTTGGCCTGAAGATGAGCTCGCGT  1586604
+
+Query  179      CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                ||||||||||||||||||||||||||||||||
+Sbjct  1586605  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1586636
+
+
+
+
+Range 2: 2835965 to 2836176
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:196/212(92%),  Gaps:2/212(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||||||| ||||||||||||||||||||   ||||||||  ||||||
+Sbjct  2836176  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGAAGTCTTCGGACTTAGTGG  2836117
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  2836116  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  2836057
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCG-CCTGAAGATGAGCTCGCGG  178
+                |||||||||||||||||||||| ||||||||  ||| | | |||||||||||||||||| 
+Sbjct  2836056  CTGCTAATACCCGATATGCCGAGAGGTGAAATCTTTTTTGGCCTGAAGATGAGCTCGCGT  2835997
+
+Query  179      CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                ||||||||||||||||||||||||||||||||
+Sbjct  2835996  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2835965
+
+
+
+
+>Chamaesiphon minutus strain PCC 6605 16S ribosomal RNA, partial sequence
+Sequence ID: NR_102459.1 Length: 1479
+Range 1: 21 to 223
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||
+Sbjct  21   GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  80
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  81   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  140
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| || |||||| |||||||||||||||||||||||||||||||| |
+Sbjct  141  CTGCTAATACCCGATGTGACGAAAGTTGAAAGATTTATCGCCTGAAGATGAGCTCGCGTC  200
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAA  202
+             |||||||||| ||||| |||||
+Sbjct  201  AGATTAGCTAGATGGTGTGGTAA  223
+
+
+
+
+>Chamaesiphon minutus PCC 6605, complete genome
+Sequence ID: CP003600.1 Length: 6284095
+Range 1: 896156 to 896358
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Minus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||||||| |||||||||||||||||||||| |||||||| |||||||
+Sbjct  896358  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  896299
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  896298  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  896239
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| || |||||| |||||||||||||||||||||||||||||||| |
+Sbjct  896238  CTGCTAATACCCGATGTGACGAAAGTTGAAAGATTTATCGCCTGAAGATGAGCTCGCGTC  896179
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAA  202
+                |||||||||| ||||| |||||
+Sbjct  896178  AGATTAGCTAGATGGTGTGGTAA  896156
+
+
+
+
+Range 2: 1377576 to 1377778
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||
+Sbjct  1377576  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  1377635
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  1377636  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  1377695
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| || |||||| |||||||||||||||||||||||||||||||| |
+Sbjct  1377696  CTGCTAATACCCGATGTGACGAAAGTTGAAAGATTTATCGCCTGAAGATGAGCTCGCGTC  1377755
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAA  202
+                 |||||||||| ||||| |||||
+Sbjct  1377756  AGATTAGCTAGATGGTGTGGTAA  1377778
+
+
+
+
+Range 3: 2457844 to 2458046
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                ||||||||||||||||||| ||||||||||||||||||||||| |||||||| |||||||
+Sbjct  2457844  GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  2457903
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  2457904  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  2457963
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| || |||||| |||||||||||||||||||||||||||||||| |
+Sbjct  2457964  CTGCTAATACCCGATGTGACGAAAGTTGAAAGATTTATCGCCTGAAGATGAGCTCGCGTC  2458023
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAA  202
+                 |||||||||| ||||| |||||
+Sbjct  2458024  AGATTAGCTAGATGGTGTGGTAA  2458046
+
+
+
+
+>Synechococcus sp. NKBG15041c gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC006088.1 Length: 1453
+Range 1: 5 to 216
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:196/212(92%),  Gaps:2/212(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| |||||||||||||||||||||   ||||||||  ||||||
+Sbjct  5    GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGAAGTCTTCGGACTTAGTGG  64
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  65   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGACGGGGACAACAGTTGGAAACGA  124
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATC-GCCTGAAGATGAGCTCGCGG  178
+            |||||||||||||||||||||| ||||||||  ||| |  ||||||||||||||||||| 
+Sbjct  125  CTGCTAATACCCGATATGCCGAGAGGTGAAATCTTTTTTGGCCTGAAGATGAGCTCGCGT  184
+
+Query  179  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            ||||||||||||||||||||||||||||||||
+Sbjct  185  CTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  216
+
+
+
+
+>Cyanobacterium cCLB-12 16S ribosomal RNA gene, partial sequence
+Sequence ID: HQ230231.1 Length: 747
+Range 1: 9 to 221
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:197/213(92%),  Gaps:3/213(1%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGG-TCTCTTCGGAGA-TAGT  57
+            |||||||||||||||||||| ||||||||||||||||||||| | | |||||| | ||||
+Sbjct  9    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGATGTTTTCGGACATTAGT  68
+
+Query  58   GGCGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAAC  117
+            |||||||||||||||||| ||||||||||| |||||||| ||||||||||||||||||||
+Sbjct  69   GGCGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTTGGGGACAACAGTTGGAAAC  128
+
+Query  118  GACTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCG  177
+            |||||||||||||  || |||||||||||||||||||||| ||||||||| |||||||||
+Sbjct  129  GACTGCTAATACCGAATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGAAGAGCTCGCG  188
+
+Query  178  GCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+             |||||||||||||||||||||||||||| |||
+Sbjct  189  TCTGATTAGCTAGTTGGTGGGGTAAGAGCTTAC  221
+
+
+
+
+>Aliterella sp. LEGE 221417 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: PQ861015.1 Length: 1989
+Range 1: 6 to 218
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:197/213(92%),  Gaps:3/213(1%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGG-TCTCTTCGGAGA-TAGT  57
+            |||||||||||||||||||| ||||||||||||||||||||| | | |||||| | ||||
+Sbjct  6    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGATGTTTTCGGACATTAGT  65
+
+Query  58   GGCGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAAC  117
+            |||||||||||||||||| ||||||||||| |||||||| ||||||||||||||||||||
+Sbjct  66   GGCGGACGGGTGAGTAACGCGTGAGAATCTAGCTTCAGGTTGGGGACAACAGTTGGAAAC  125
+
+Query  118  GACTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCG  177
+            |||||||||||||  || |||||||||||||||||||||| ||||||||| |||||||||
+Sbjct  126  GACTGCTAATACCGAATGTGCCGAAAGGTGAAAGATTTATTGCCTGAAGAAGAGCTCGCG  185
+
+Query  178  GCTGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+             |||||||||||||||||||||||||||| |||
+Sbjct  186  TCTGATTAGCTAGTTGGTGGGGTAAGAGCTTAC  218
+
+
+
+
+>Merismopedia glauca 0BB39S01 16S rRNA gene, strain 0BB39S01
+Sequence ID: AJ781044.1 Length: 1475
+Range 1: 14 to 216
+
+Score:302 bits(163), Expect:1e-77, 
+Identities:190/203(94%),  Gaps:1/203(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATG-CTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            ||||||||||||||||||| |||||||||||||||||||||| |||||||||| ||||||
+Sbjct  14   GATGAACGCTGGCGGTATGCCTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  73
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||||||| |||| ||  ||||||||||||||||||||||||||||||
+Sbjct  74   CGGACGGGTGAGTAACACGTAAGAACCTACCTTCAGGATGGGGACAACAGTTGGAAACGA  133
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| ||| ||||||||||||||||||||||| ||| |||||
+Sbjct  134  CTGCTAATACCCGATGTGCCGAGAGGCGAAAGATTTATCGCCTGAAGATGGGCTTGCGGC  193
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAA  202
+            |||||||||||||||||| ||||
+Sbjct  194  TGATTAGCTAGTTGGTGGTGTAA  216
+
+
+
+
+>Stenomitos sp. BACA0708 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: OP508343.1 Length: 2073
+Range 1: 9 to 219
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||| ||| |||||||||||||||||||||| |||||||| |||||||
+Sbjct  9    GATGAACGCTGGCGGTCTGCTTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| ||||||| ||||||||||||||||||||||
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGTTGGGGACAACAGTTGGAAACGA  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            |||||||||||| || |||||| ||||||||| ||||  ||||||||||||||||||| |
+Sbjct  129  CTGCTAATACCCAATGTGCCGAGAGGTGAAAGCTTTAGTGCCTGAAGATGAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||  ||||||
+Sbjct  189  TGATTAGCTAGTTGGTGGGGTAATGGCCTAC  219
+
+
+
+
+>Synechococcus sp. SM-09 16S ribosomal RNA gene, partial sequence
+Sequence ID: JF703680.1 Length: 1427
+Range 1: 17 to 227
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  17   GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  76
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  77   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  136
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  137  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  196
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  197  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  227
+
+
+
+
+>Synechococcus elongatus UTEX 3055 chromosome, complete genome
+Sequence ID: CP033061.1 Length: 2767524
+Range 1: 503019 to 503229
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1       GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  503229  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  503170
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  503169  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  503110
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  503109  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  503050
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  503049  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  503019
+
+
+
+
+Range 2: 1186801 to 1187011
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1186801  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1186860
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1186861  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1186920
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1186921  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1186980
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  1186981  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  1187011
+
+
+
+
+>Synechococcus elongatus PCC 6301 16S ribosomal RNA gene, partial sequence
+Sequence ID: KM019981.1 Length: 1461
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  121  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  211
+
+
+
+
+>Sphaerospermopsis reniformis NIES-1947 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455625.1 Length: 1484
+Range 1: 25 to 235
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  25   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  84
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  85   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  144
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  145  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  204
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  205  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  235
+
+
+
+
+>Stenomitos sp. BACA0618 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: OM732255.1 Length: 2083
+Range 1: 9 to 219
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||| ||| |||||||||||||||||||||| |||||||| |||||||
+Sbjct  9    GATGAACGCTGGCGGTCTGCTTAACACATGCAAGTCGAACGGTGTCTTCGGACATAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| ||||||| ||||||||||||||||||||||
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTCAGGTTGGGGACAACAGTTGGAAACGA  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            |||||||||||| || |||||| ||||||||| ||||  ||||||||||||||||||| |
+Sbjct  129  CTGCTAATACCCAATGTGCCGAGAGGTGAAAGCTTTAGTGCCTGAAGATGAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||  ||||||
+Sbjct  189  TGATTAGCTAGTTGGTGGGGTAATGGCCTAC  219
+
+
+
+
+>Synechococcus elongatus PCC 6301 16S ribosomal RNA, complete sequence
+Sequence ID: NR_074309.1 Length: 1489
+Range 1: 28 to 238
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  28   GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  87
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  88   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  147
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  148  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  207
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  208  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  238
+
+
+
+
+>Anabaena sphaerica f. conoidea 2LT27S09 partial 16S rRNA gene
+Sequence ID: FM177479.1 Length: 1461
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||| ||||||||||||| ||||| | ||||
+Sbjct  181  TGATCAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Sphaerospermopsis reniformis gene for 16S ribosomal RNA, partial sequence, strain: NIES-1687
+Sequence ID: LC319769.1 Length: 1411
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Synechococcus elongatus PCC 11801 chromosome, complete genome
+Sequence ID: CP030139.2 Length: 2716860
+Range 1: 1779893 to 1780103
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||  |||||||||| ||||||
+Sbjct  1780103  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGAGCTCTTCGGAGCTAGTGG  1780044
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1780043  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1779984
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1779983  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1779924
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1779923  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1779893
+
+
+
+
+Range 2: 2401382 to 2401592
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||  |||||||||| ||||||
+Sbjct  2401382  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGAGCTCTTCGGAGCTAGTGG  2401441
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2401442  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2401501
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2401502  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2401561
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2401562  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2401592
+
+
+
+
+>Aphanizomenon aphanizomenoides UADFA13 16S ribosomal RNA gene, partial sequence
+Sequence ID: FJ895123.1 Length: 711
+Range 1: 2 to 212
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  2    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  61
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  62   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  121
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  122  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  181
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  182  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  212
+
+
+
+
+>Sphaerospermopsis reniformis NIES-1948 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455623.1 Length: 1484
+Range 1: 25 to 235
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  25   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  84
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  85   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  144
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  145  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  204
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  205  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  235
+
+
+
+
+>Synechococcus sp. UTEX 2973, complete genome
+Sequence ID: CP006471.1 Length: 2690418
+Range 1: 603929 to 604139
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  603929  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  603988
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  603989  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  604048
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  604049  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  604108
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  604109  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  604139
+
+
+
+
+Range 2: 2689929 to 2690139
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  2690139  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2690080
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2690079  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2690020
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2690019  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2689960
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  2689959  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  2689929
+
+
+
+
+>Sphaerospermopsis oumiana NIES-1679 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455647.1 Length: 1449
+Range 1: 24 to 234
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  24   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  83
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  84   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  143
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  144  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  203
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  204  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  234
+
+
+
+
+>Synechococcus elongatus PCC 7942 16S ribosomal RNA gene, partial sequence
+Sequence ID: AF132930.1 Length: 1411
+>Synechococcus sp. ACT 9809 16S ribosomal RNA gene, partial sequence
+Sequence ID: HQ859456.1 Length: 1411 
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  121  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  211
+
+
+
+
+>Sphaerospermopsis reniformis NIES-1692 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455643.1 Length: 1484
+Range 1: 25 to 235
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  25   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  84
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  85   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  144
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  145  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  204
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  205  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  235
+
+
+
+
+>Synechococcus elongatus PCC 6311 chromosome
+Sequence ID: CP088958.1 Length: 2689791
+Range 1: 568617 to 568827
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  568617  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  568676
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  568677  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  568736
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  568737  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  568796
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  568797  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  568827
+
+
+
+
+>Sphaerospermopsis crassa CHAB4404 16S ribosomal RNA gene, partial sequence
+Sequence ID: KT583658.1 Length: 1412
+Range 1: 17 to 227
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  17   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  76
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  77   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  136
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  137  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  196
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  197  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  227
+
+
+
+
+>Sphaerospermopsis reniformis NRERC-604 16S ribosomal RNA gene, partial sequence
+Sequence ID: MT294020.1 Length: 1479
+Range 1: 22 to 232
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  22   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  81
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  82   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  141
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  142  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  201
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  202  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  232
+
+
+
+
+>Aphanizomenon aphanizomenoides UADFA3 16S ribosomal RNA gene, partial sequence
+Sequence ID: FJ895118.1 Length: 934
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Aphanizomenonaceae cyanobacterium CYA1 16S ribosomal RNA gene, partial sequence
+Sequence ID: PP999715.1 Length: 803
+Range 1: 22 to 232
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||  |||| |||  ||||||
+Sbjct  22   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGGATCTTAGGATCTAGTGG  81
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  82   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  141
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| |||||||||||||||| |||||||||| |||||||| |
+Sbjct  142  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTC  201
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  202  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  232
+
+
+
+
+>Synechococcus elongatus PCC 7942 = FACHB-805 strain UTEX 2434 chromosome, complete genome
+Sequence ID: CP130602.1 Length: 2695906
+Range 1: 568617 to 568827
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  568617  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  568676
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  568677  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  568736
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  568737  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  568796
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  568797  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  568827
+
+
+
+
+Range 2: 2660097 to 2660307
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  2660307  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2660248
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2660247  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2660188
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2660187  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2660128
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  2660127  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  2660097
+
+
+
+
+>Anacystis nidulans 6301 16S rRNA gene and 5' flank
+Sequence ID: X03538.1 Length: 2918
+Range 1: 1459 to 1669
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1     GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+             |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1459  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1518
+
+Query  60    CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+             |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1519  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1578
+
+Query  120   CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+             ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1579  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1638
+
+Query  180   TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+             |||||||||||||||||||||||| ||||||
+Sbjct  1639  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  1669
+
+
+
+
+>Synechococcus elongatus PCC 6301 chromosome, complete sequence
+Sequence ID: CP085785.1 Length: 2695389
+Range 1: 568102 to 568312
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  568102  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  568161
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  568162  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  568221
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  568222  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  568281
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  568282  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  568312
+
+
+
+
+Range 2: 2659580 to 2659790
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  2659790  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2659731
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2659730  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2659671
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2659670  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2659611
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  2659610  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  2659580
+
+
+
+
+>Sphaerospermopsis crassa 16S ribosomal RNA, partial sequence
+Sequence ID: NR_177751.1 Length: 1412
+Range 1: 17 to 227
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  17   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  76
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  77   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  136
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  137  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  196
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  197  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  227
+
+
+
+
+>Sphaerospermopsis reniformis gene for 16S ribosomal RNA, partial sequence, strain: NIES-1689
+Sequence ID: LC319771.1 Length: 1411
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Aphanizomenon aphanizomenoides UADFA5 16S ribosomal RNA gene, partial sequence
+Sequence ID: FJ895119.1 Length: 934
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Synechococcus elongatus PCC 7942 = FACHB-805 strain PCC 7942 chromosome, complete genome
+Sequence ID: CP000100.1 Length: 2695903
+Range 1: 568617 to 568827
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  568617  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  568676
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  568677  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  568736
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  568737  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  568796
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  568797  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  568827
+
+
+
+
+Range 2: 2660094 to 2660304
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  2660304  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  2660245
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2660244  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2660185
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2660184  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2660125
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  2660124  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  2660094
+
+
+
+
+>Synechococcus sp. R42DM 16S ribosomal RNA gene, partial sequence
+Sequence ID: KY962810.1 Length: 1416
+Range 1: 7 to 217
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  7    GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  66
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  67   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  126
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  127  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  186
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  187  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  217
+
+
+
+
+>Calothrix sp. R42 16S ribosomal RNA gene, partial sequence
+Sequence ID: MG356333.1 Length: 1182
+Range 1: 14 to 224
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  14   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGG  73
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||||||||||||||| |||  |||  |||||||||||||||||||||
+Sbjct  74   CGGACGGGTGAGTAACACGTGAGAATCTAGCTCTAGGTCGGGGACAACAGTTGGAAACGA  133
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||| || ||||  ||||||||||||| |
+Sbjct  134  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTAATTGCCTAGAGATGAGCTCGCGTC  193
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||||||||||
+Sbjct  194  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  224
+
+
+
+
+>Sphaerospermopsis sp. CHAB4401 16S ribosomal RNA gene, partial sequence
+Sequence ID: KT583655.1 Length: 1412
+Range 1: 17 to 227
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  17   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  76
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  77   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  136
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  137  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  196
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  197  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  227
+
+
+
+
+>Synechococcus elongatus PCC 6301 DNA, complete genome
+Sequence ID: AP008231.1 Length: 2696255
+Range 1: 1052052 to 1052262
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||| |||||||||| ||||||
+Sbjct  1052262  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1052203
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1052202  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1052143
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1052142  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1052083
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  1052082  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  1052052
+
+
+
+
+Range 2: 1656482 to 1656692
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1656482  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  1656541
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1656542  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1656601
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1656602  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1656661
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||| ||||||
+Sbjct  1656662  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  1656692
+
+
+
+
+>Sphaerospermopsis reniformis gene for 16S ribosomal RNA, partial sequence, strain: NIES-1688
+Sequence ID: LC319770.1 Length: 1411
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+>Synechococcus elongatus PCC 7943 chromosome
+Sequence ID: CP088961.1 Length: 2689559
+Range 1: 568617 to 568827
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1       GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+               |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  568617  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  568676
+
+Query  60      CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+               |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  568677  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  568736
+
+Query  120     CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+               ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  568737  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  568796
+
+Query  180     TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+               |||||||||||||||||||||||| ||||||
+Sbjct  568797  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  568827
+
+
+
+
+>Cyanobacterium IHB-283 16S ribosomal RNA gene, partial sequence
+Sequence ID: JF966678.1 Length: 1444
+Range 1: 21 to 231
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  21   GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  80
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  81   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  140
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  141  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  200
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  201  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  231
+
+
+
+
+>Synechococcus elongatus PCC 6301 partial 16S rRNA gene, strain CCAP 1405/1
+Sequence ID: HF678511.1 Length: 2019
+Range 1: 15 to 225
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  15   GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  74
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  75   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  134
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  135  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  194
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  195  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  225
+
+
+
+
+>Synechococcus elongatus M14.2 chromosome, complete genome
+Sequence ID: CP168031.1 Length: 2717027
+Range 1: 1780060 to 1780270
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Minus
+
+Query  1        GATGAACGCTGGCGGTATGCT-AACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  |||| |||||||||||||||||||  |||||||||| ||||||
+Sbjct  1780270  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGAGCTCTTCGGAGCTAGTGG  1780211
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  1780210  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  1780151
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  1780150  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  1780091
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  1780090  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  1780060
+
+
+
+
+Range 2: 2401549 to 2401759
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1        GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+                |||||||||||||||  ||| ||||||||||||||||||||  |||||||||| ||||||
+Sbjct  2401549  GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGAGCTCTTCGGAGCTAGTGG  2401608
+
+Query  60       CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+                |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  2401609  CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  2401668
+
+Query  120      CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+                ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  2401669  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  2401728
+
+Query  180      TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+                |||||||||||||||||||||||||||||||
+Sbjct  2401729  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  2401759
+
+
+
+
+>Synechococcus elongatus gene for 16S ribosomal RNA, partial sequence, strain: ND15
+Sequence ID: AB871649.1 Length: 1489
+Range 1: 28 to 238
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  28   GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  87
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  88   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  147
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  148  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  207
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  208  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  238
+
+
+
+
+>Synechococcus PCC7943 16S ribosomal RNA gene, partial sequence
+Sequence ID: AF216949.1 Length: 1410
+Range 1: 1 to 211
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||  ||| ||||||||||||||||||||| |||||||||| ||||||
+Sbjct  1    GATGAACGCTGGCGGCGTGCTTAACACATGCAAGTCGAACGGGCTCTTCGGAGCTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| || ||||| |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTACAGGACGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||||||| |||||| |||||||| |||||| ||||| ||||||||||||| |
+Sbjct  121  CTGCTAATACCCGATGTGCCGAGAGGTGAAACATTTATGGCCTGTAGATGAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||||||||| ||||||
+Sbjct  181  TGATTAGCTAGTTGGTGGGGTAAGGGCCTAC  211
+
+
+
+
+>Sphaerospermopsis reniformis FBCC-A194 16S ribosomal RNA gene, partial sequence
+Sequence ID: ON411418.1 Length: 1468
+Range 1: 9 to 219
+
+Score:300 bits(162), Expect:5e-77, 
+Identities:195/211(92%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  9    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  129  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  189  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  219
+
+
+
+
+>Sphaerospermopsis reniformis NIES-1946 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455627.1 Length: 1484
+Range 1: 25 to 228
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:190/204(93%),  Gaps:1/204(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  25   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  84
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  85   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  144
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  145  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  204
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAG  203
+            |||||||||||||||||| |||||
+Sbjct  205  TGATTAGCTAGTTGGTGGTGTAAG  228
+
+
+
+
+>Pseudoaliinostoc sp. BACA0063 16S ribosomal RNA gene and 16S-23S ribosomal RNA intergenic spacer, partial sequence
+Sequence ID: OQ540721.1 Length: 2044
+Range 1: 6 to 212
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:192/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||||||||| |||||||||||
+Sbjct  6    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTAGGAGATAGTGG  65
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  66   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  125
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||| ||||  ||   ||||||||||||||||||| |
+Sbjct  126  CTGCTAATACCGGATGTGCCGAAAGGTAAAAGGCTTGCTGCCTGAAGATGAGCTCGCGTC  185
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            ||||||||||||||||| |||||||||
+Sbjct  186  TGATTAGCTAGTTGGTGTGGTAAGAGC  212
+
+
+
+
+>Amphiheterocytum lacustre CCIBt 3627 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: MG921182.1 Length: 1767
+Range 1: 1 to 207
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:192/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  2    ATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGGC  60
+            ||||||||||||||||||| ||||||||||||||||||||| |||||||||| |||||||
+Sbjct  1    ATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTCGGAGTTAGTGGC  60
+
+Query  61   GGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGAC  120
+            ||||||||||||||| ||||||||| ||||||||||  ||||||||||||||||||||||
+Sbjct  61   GGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGAC  120
+
+Query  121  TGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGCT  180
+            |||||||||| ||||||||| |||||||||||||||| |||||||||| |||||||| ||
+Sbjct  121  TGCTAATACCGGATATGCCGGAAGGTGAAAGATTTATTGCCTGAAGATAAGCTCGCGTCT  180
+
+Query  181  GATTAGCTAGTTGGTGGGGTAAGAGCC  207
+            ||||||||||| || ||||||| ||||
+Sbjct  181  GATTAGCTAGTAGGAGGGGTAAAAGCC  207
+
+
+
+
+>Scytonematopsis sp. BACA0005 16S ribosomal RNA gene, partial sequence; and 16S-23S ribosomal RNA intergenic spacer, complete sequence
+Sequence ID: MT176688.2 Length: 2189
+Range 1: 21 to 227
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:192/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  21   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  80
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||| ||| ||| ||||||||||||||||||||||
+Sbjct  81   CGGACGGGTGAGTAACGCGTGAGAATCTGCCTTTAGGTTGGGGACAACAGTTGGAAACGA  140
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            |||||||||||| || ||||| |||||||||| ||||  |||| |||||||||||||| |
+Sbjct  141  CTGCTAATACCCAATGTGCCGTAAGGTGAAAGTTTTAATGCCTAAAGATGAGCTCGCGTC  200
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            |||||||||||| |||| |||||||||
+Sbjct  201  TGATTAGCTAGTAGGTGTGGTAAGAGC  227
+
+
+
+
+>Sphaerospermopsis reniformis NIES-1949 gene for 16S ribosomal RNA, partial sequence
+Sequence ID: LC455621.1 Length: 1484
+Range 1: 25 to 228
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:190/204(93%),  Gaps:1/204(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| ||||||||||||||||||||| ||||| |||| ||||||
+Sbjct  25   GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGACTCTTAGGAGTTAGTGG  84
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  85   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  144
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  145  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  204
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAG  203
+            |||||||||||||||||| |||||
+Sbjct  205  TGATTAGCTAGTTGGTGGTGTAAG  228
+
+
+
+
+>Pseudoaliinostoc sejongens ACKU 594 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: MT000689.1 Length: 2412
+>Pseudoaliinostoc sejongens ACKU 595 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: MT000690.1 Length: 2412
+>Pseudoaliinostoc sejongens ACKU 596 16S ribosomal RNA gene, partial sequence; 16S-23S ribosomal RNA intergenic spacer, complete sequence; and 23S ribosomal RNA gene, partial sequence
+Sequence ID: MT000691.1 Length: 2412 
+Range 1: 9 to 215
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:192/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  9    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||||||| |||  |||||||||||||||||||||
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||| ||||  ||   ||||||||||||||||||| |
+Sbjct  129  CTGCTAATACCGGATGTGCCGAAAGGTAAAAGGCTTGCTGCCTGAAGATGAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            ||||||||||||||||| |||||||||
+Sbjct  189  TGATTAGCTAGTTGGTGTGGTAAGAGC  215
+
+
+
+
+>Pseudoaliinostoc sejongens strain ACKU 594 16S ribosomal RNA, partial sequence
+Sequence ID: NR_172602.1 Length: 1470
+Range 1: 9 to 215
+
+Score:298 bits(161), Expect:2e-76, 
+Identities:192/207(93%),  Gaps:1/207(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  9    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  68
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| |||||||||||||||| |||  |||||||||||||||||||||
+Sbjct  69   CGGACGGGTGAGTAACGCGTGAGAATCTGGCTTTAGGTCGGGGACAACAGTTGGAAACGA  128
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||||||||| ||||  ||   ||||||||||||||||||| |
+Sbjct  129  CTGCTAATACCGGATGTGCCGAAAGGTAAAAGGCTTGCTGCCTGAAGATGAGCTCGCGTC  188
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGC  206
+            ||||||||||||||||| |||||||||
+Sbjct  189  TGATTAGCTAGTTGGTGTGGTAAGAGC  215
+
+
+
+
+>Sphaerospermopsis aphanizomenoides gene for 16S ribosomal RNA, partial sequence, strain: NIES-3739
+Sequence ID: LC037453.1 Length: 1411
+Range 1: 1 to 211
+
+Score:292 bits(158), Expect:9e-75, 
+Identities:193/211(91%),  Gaps:1/211(0%), Strand: Plus/Plus
+
+Query  1    GATGAACGCTGGCGGTATGC-TAACACATGCAAGTCGAACGGTCTCTTCGGAGATAGTGG  59
+            |||||||||||||||||||| |||||||||||||||||||||  |||| |||  ||||||
+Sbjct  1    GATGAACGCTGGCGGTATGCTTAACACATGCAAGTCGAACGGRMTCTTAGGAKYTAGTGG  60
+
+Query  60   CGGACGGGTGAGTAACACGTGAGAATCTGGCTTCAGGATGGGGACAACAGTTGGAAACGA  119
+            |||||||||||||||| ||||||||| ||||||||||  |||||||||||||||||||||
+Sbjct  61   CGGACGGGTGAGTAACGCGTGAGAATTTGGCTTCAGGTCGGGGACAACAGTTGGAAACGA  120
+
+Query  120  CTGCTAATACCCGATATGCCGAAAGGTGAAAGATTTATCGCCTGAAGATGAGCTCGCGGC  179
+            ||||||||||| ||| ||||| ||||||||||||||||||||||||||| |||||||| |
+Sbjct  121  CTGCTAATACCGGATGTGCCGGAAGGTGAAAGATTTATCGCCTGAAGATAAGCTCGCGTC  180
+
+Query  180  TGATTAGCTAGTTGGTGGGGTAAGAGCCTAC  210
+            |||||||||||||||||| ||||| | ||||
+Sbjct  181  TGATTAGCTAGTTGGTGGTGTAAGGGACTAC  211
+
+
+
+
+
+
+
+		
+
+
