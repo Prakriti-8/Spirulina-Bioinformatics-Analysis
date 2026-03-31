@@ -112,7 +112,7 @@ This study demonstrates that BLAST and phylogenetic analysis are effective tools
 
 ## 👩‍🔬 Author
 
-*Name: *Prakriti Prakash*
+Name: *Prakriti Prakash*
 
-*Course: B.Tech Biotechnology
+Course: B.Tech Biotechnology
 
