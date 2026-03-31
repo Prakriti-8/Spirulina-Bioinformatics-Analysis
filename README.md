@@ -95,10 +95,10 @@ This study demonstrates that BLAST and phylogenetic analysis are effective tools
 
 ## 📁 Files Included
 
-* `spirulina_sequence.fasta` → Query sequence
+* `alignment.meg` → Sequence alignment file
 * `blast_results.txt` → BLAST output
 * `phylogenetic_tree.png` → Phylogenetic tree
-* `alignment.meg` → Sequence alignment file
+* `spirulina_sequence.fasta` → Query sequence
 
 ---
 
@@ -112,6 +112,7 @@ This study demonstrates that BLAST and phylogenetic analysis are effective tools
 
 ## 👩‍🔬 Author
 
-Name: *Prakriti Prakash*
-Course: B.Tech Biotechnology
+*Name: *Prakriti Prakash*
+
+*Course: B.Tech Biotechnology
 
